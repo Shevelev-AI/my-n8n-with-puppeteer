@@ -1,0 +1,9 @@
+{
+  "name": "n8n-with-puppeteer",
+  "version": "1.0.0",
+  "description": "n8n с Puppeteer",
+  "dependencies": {
+    "n8n": "latest",
+    "puppeteer": "latest"
+  }
+}
